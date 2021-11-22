@@ -19,6 +19,7 @@
 
 # RStudio files
 .Rproj.user/
+contraceptive_method_choice.Rproj
 
 # produced vignettes
 vignettes/*.html
